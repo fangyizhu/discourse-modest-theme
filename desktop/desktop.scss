@@ -133,7 +133,7 @@ div.menu-links-header .menu-links-row li a.active .d-icon {
   padding-right: 0;
   padding-left: 0;
   border-bottom: 2px solid transparent;
-  color: $color-black;
+  color: $primary;
   margin: 0 4px;
   &:hover {
     color: $color-black;
@@ -144,7 +144,7 @@ div.menu-links-header .menu-links-row li a.active .d-icon {
 
 .nav-pills>li a.active {
   background-color: transparent;
-  color: $color-black;
+  color: $primary;
   border-bottom: 2px solid $tertiary;
   &:hover {
     border-bottom: 2px solid $tertiary-hover;
